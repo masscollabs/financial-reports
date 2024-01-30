@@ -2,6 +2,13 @@
 
 Financial report of Masscollabs Services
 
+* https://codeberg.org/masscollabs/financial-reports
+* https://git.disroot.org/masscollabs/financial-reports
+* https://git.vern.cc/masscollabs/financial-reports
+* https://git.sr.ht/~mertgor/financial-reports
+* https://gitlab.com/masscollabs/financial-reports
+* https://github.com/masscollabs/financial-reports
+
 # License
 
 Financial report of Masscollabs Services
